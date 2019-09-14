@@ -1,7 +1,9 @@
 body{
     background-color: black;
     color: yellow;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Courier New', Courier, monospace
+      margin-top: 30vh;
+}
 
 h1,h3{
     max-width: 0 auto;
