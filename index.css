@@ -1,4 +1,7 @@
 body{
     background-color: black;
-    color: yellow;
+    color: green;
+}
+h1,h3{
+    max-width: 0 auto;
 }
