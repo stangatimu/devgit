@@ -2,4 +2,7 @@ body{
     background-color: black;
     color: yellow;
     font-family: 'Courier New', Courier, monospace;
+
+h1,h3{
+    max-width: 0 auto;
 }
